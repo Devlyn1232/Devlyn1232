@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity
 - 🌱 I’m currently learning how to code Ai in unity
 - 💞️ I’m looking to collaborate on noting
-- 📫 How to reach me Discord: DEV#4619
+- 📫 How to reach me, Discord: DEV#4619
 
 <!---
 Devlyn1232/Devlyn1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
