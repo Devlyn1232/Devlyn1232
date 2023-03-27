@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devlyn1232
 - 👀 I’m interested in Unity
 - 🌱 I’m currently learning how to collaborate using git
-- 💞️ I’m looking to collaborate on noting rn
+- 💞️ I’m looking to collaborate on noting
 - 📫 How to reach me no
 
 <!---
