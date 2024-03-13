@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devlyn1232
 - 👀 I’m interested in Unity
 - 🌱 I’m currently learning how to unity
-- 💞️ I’m looking to collaborate on noting
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, Discord: DEV#4619
 
 <!---
