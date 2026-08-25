@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devlyn1232
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning how to unity
+- 👀 I’m interested in Plants
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, Discord: DEV#4619
 
